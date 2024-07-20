@@ -1,0 +1,8 @@
+{
+  "name": "04-nodejs",
+  "version": "0.1.0",
+  "scripts": {},
+  "devDependencies": {
+    "tsx": "^4.16.2"
+  }
+}
